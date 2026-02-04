@@ -8,4 +8,5 @@ We welcome contributions from anyone! To get involved or ask questions, join our
 
 Discord: https://discord.com/invite/WJuUWsy6DJ
 
+Firmware (pre-release): https://github.com/I-M-Robotics-Lab/Curl-Drive-Firmware
 ![Rendered PCB](/docs/render.png)
